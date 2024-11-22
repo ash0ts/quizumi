@@ -1,6 +1,3 @@
-Here's a README.md for the project:
-
-```markdown
 # Quizumi
 
 Quizumi is an intelligent Japanese learning video player that combines video playback with interactive quizzes powered by Google's Gemini AI. It helps users learn Japanese through active engagement with anime, movies, or any Japanese video content.
