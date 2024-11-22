@@ -1,0 +1,16 @@
+[project]
+name = "quizumi"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google-generativeai>=0.8.3",
+    "langchain>=0.3.7",
+    "openai>=1.54.4",
+    "opencv-python>=4.10.0.84",
+    "pyqt5>=5.15.11",
+    "python-vlc>=3.0.21203",
+    "set-env-colab-kaggle-dotenv>=0.1.3",
+    "weave>=0.51.22",
+]
