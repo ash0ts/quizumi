@@ -245,7 +245,9 @@ class DifficultyAdjustmentResponse(TypedDict):
     new_difficulty: Difficulty
     reasoning: str
 
-
+#TODO: Add long term memory that can be exported and imported to remember previous sessions
+#TODO: Add chat history and use memory to prevent repeat questions
+#TODO: Improve tool prompts so it is used effectively
 class QuizAgent(weave.Model):
     model: genai.GenerativeModel = None
     current_score: int = 0
