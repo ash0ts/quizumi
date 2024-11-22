@@ -152,7 +152,7 @@ wandb==0.18.3
 warc3-wet==0.2.5
 warc3-wet-clueweb09==0.2.5
 wcwidth==0.2.13
-weave==0.51.12
+weave==0.51.22
 Werkzeug==3.0.4
 widgetsnbextension==4.0.13
 yarl==1.15.1
