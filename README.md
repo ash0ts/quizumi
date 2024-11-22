@@ -29,7 +29,7 @@ pip install -r requirements.txt
 3. Set up environment variables:
 ```bash
 export GOOGLE_API_KEY="your_gemini_api_key"
-export WANDB_API_KEY="your_wandb_api_key"  # Optional for experiment tracking
+export WANDB_API_KEY="your_wandb_api_key"
 ```
 
 ## Usage
